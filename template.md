@@ -1,4 +1,4 @@
-# Hi, I'm (YOUR NAME)
+# Hi, I'm Carlos Daniel Jimenez Anaya
 
 <!-- A short sentence that can  describe who you are -->
 
@@ -50,5 +50,5 @@
 
 ## Contact
 
-You can reach me at <email@example.com>
+You can reach me at <cd.jimenez@uniandes.edu.co>
 
