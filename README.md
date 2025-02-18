@@ -5,8 +5,8 @@
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
-- Master: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
+- Bachelor: Biomedical engineering from University of los Andes
+- Master: Biological sciences at University of los Andes
 -  Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
 - Post Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
 
