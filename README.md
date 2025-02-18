@@ -7,8 +7,6 @@
 
 - Bachelor: Biomedical engineering from University of los Andes
 - Master: Biological sciences at University of los Andes
--  Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
-- Post Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
