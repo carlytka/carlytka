@@ -14,7 +14,7 @@
 - Member of [BIOMAC](https://github.com/biomac-lab)
 
 
-<img width="180" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
+<img width="100" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
 
 - Member of CIMPAT
 
